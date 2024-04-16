@@ -1,5 +1,6 @@
 # 🧑‍💻 Microservice v1 Template
 
+![alpha_ms drawio](https://github.com/gaju91/microservice-v1-template/assets/47264152/0d1af325-6901-4415-9b17-18e2496902cd)
 
 ## 📋 Overview
 
